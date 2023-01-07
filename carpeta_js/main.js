@@ -30,4 +30,9 @@ function encriptar(){
          document.getElementById("copiar").style.display = "inherit";
      }
  }
- 
+ function copiar(){
+    var contenido = document.querySelector("#texto1");
+    contenido.select();
+    document.execCommand("copy");
+    alert("Texto copiado en portapapeles")
+}

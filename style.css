@@ -172,7 +172,7 @@ button:active{
     transition: 1s all;
 }
 #btn-desencriptar:hover{
-    background-image: url("../carpeta_imagenes/unlock.png");
+    background-image: url("./carpeta_imagenes/unlock.png");
     transform: scale(0.9);
     background-position-x: 20%;
     background-position-y: 40%;  

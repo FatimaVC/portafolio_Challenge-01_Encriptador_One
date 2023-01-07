@@ -29,7 +29,7 @@
 "gaitober" => "gato"
 
 La página debe tener campos para
-inserción del texto que será encriptado o desencriptado, y el usuario debe poder escoger entre as dos opciones.
+inserción del texto que será encriptado o desencriptado, y el usuario debe poder escoger entre las dos opciones.
 El resultado debe ser mostrado en la pantalla.
 ```
 ### <p> &#128204; &nbsp; Extras </p>
